@@ -1,1 +1,1 @@
-# IHC-2026-Horticulture-pcb01
+# IHC 2026 Horticulture PCB
